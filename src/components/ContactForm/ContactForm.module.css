@@ -1,0 +1,29 @@
+.form {
+  width: 360px;
+  padding: 20px;
+  border: 1px solid black;
+  border-radius: 4px;
+  background-color: rgb(243, 240, 240);
+  margin: 0 auto;
+}
+
+.div {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 16px;
+}
+
+.input {
+  padding: 4px;
+  font-size: 18px;
+  width: 340px;
+  margin-bottom: 8px;
+}
+
+.btn {
+  margin-left: 110px;
+}
+
+.error {
+  color: red;
+}
